@@ -6,9 +6,9 @@
 
 ![Tela meus chamados](img/tela_meus_chamados.png)
 
-![Formulário novo chamado](img/tela_novo_chamado.png)
+![Formulário novo chamado](img/tela_novo_chamado.jpg)
 
-![Tela login](img/tela_login.png)
+![Tela login](img/tela_login.jpg)
 
 🔗 **Deploy ao vivo:** em desenvolvimento
 
